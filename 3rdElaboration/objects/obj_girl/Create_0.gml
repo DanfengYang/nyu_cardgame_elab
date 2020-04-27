@@ -1,0 +1,1 @@
+global.girl = 0;
